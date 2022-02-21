@@ -1,8 +1,5 @@
 ## Olá! sou o Kelvyn Khrystian
 
-- 🌱 Estudante da TRYBE ...
-
-
 <div align="center">
   <a href="https://github.com/kelvynkhrystian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
