@@ -6,12 +6,6 @@
 
 
 </br>
-
-<div align="left">
-  <a href="https://github.com/kelvynkhrystian">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 ## < Tecnologias />
   
@@ -60,4 +54,11 @@
   <a href = "https://www.linkedin.com/in/kelvynkhrystian/">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
   </a>
+</div>
+
+
+<div align="left">
+  <a href="https://github.com/kelvynkhrystian">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
 </div>
