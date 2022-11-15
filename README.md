@@ -2,7 +2,7 @@
 
 <h1>Hello World ☕, sou o Kelvyn Khrystian!</h1>
 
-<h4>Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</h4>
+<h3>Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</h3>
 
 
 </br>
