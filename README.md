@@ -1,6 +1,6 @@
 <img src="code.png" width="220px" align="right" alt="imagem simbolo codigo">
 
-<h1>Hello World ☕, sou o Kelvyn Khrystian!</h1>
+<h1> < Hello World ☕, sou o Kelvyn Khrystian! /></h1>
 
 <h3>Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</h3>
 
@@ -13,7 +13,7 @@
   <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Tecnologias
+## < Tecnologias />
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,8 +24,10 @@
   <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 </div>
-
-  ## Contatos
+  
+## < Ferramentas />
+  
+## < Contatos />
 <div> 
 
   <a href="https://www.linkedin.com/in/kelvynkhrystian//" target="_blank">
