@@ -1,10 +1,16 @@
-## Olá! sou o Kelvyn Khrystian - Estudante de Desenvolvimento Web da Trybe
+<img src="code.png" width="250px" min-width="250px" max-width="300px" align="right" alt="imagem simbolo codigo">
+
+<h2>Hello World ☕, sou o Kelvyn Khrystian!</h2>
+
+<p>Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</p>
 
 
-<div align="center">
+</br>
+
+<div align="left">
   <a href="https://github.com/kelvynkhrystian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
