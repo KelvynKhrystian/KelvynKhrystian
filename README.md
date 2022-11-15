@@ -1,4 +1,4 @@
-<img src="code.png" heigth-max="20px" align="right" alt="imagem simbolo codigo">
+<img src="code.png" width="220px" align="right" alt="imagem simbolo codigo">
 
 <h2>Hello World ☕, sou o Kelvyn Khrystian!</h2>
 
@@ -9,8 +9,8 @@
 
 <div align="left">
   <a href="https://github.com/kelvynkhrystian">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
