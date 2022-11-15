@@ -1,4 +1,4 @@
-<img src="code.png" min-width="20px" max-width="120px" align="right" alt="imagem simbolo codigo">
+<img src="code.png" min-width="5px" max-width="30px" align="right" alt="imagem simbolo codigo">
 
 <h1> < Hello World ☕, sou o Kelvyn Khrystian! /></h1>
 
