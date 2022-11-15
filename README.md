@@ -1,8 +1,8 @@
 <img src="code.png" width="220px" align="right" alt="imagem simbolo codigo">
 
-<h2>Hello World ☕, sou o Kelvyn Khrystian!</h2>
+<h1>Hello World ☕, sou o Kelvyn Khrystian!</h1>
 
-<p>Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</p>
+<h4>Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</h4>
 
 
 </br>
