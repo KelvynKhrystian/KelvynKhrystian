@@ -1,5 +1,5 @@
 <img src="code2.png" min-width="5px" max-width="30px" align="right" alt="imagem simbolo codigo">
-&nbsp;
+
 <h1> <strong> < Hello World ☕ /> <br/> < I'm Kelvyn Khrystian /> </strong> </h1>
 
 <h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe</h3>
