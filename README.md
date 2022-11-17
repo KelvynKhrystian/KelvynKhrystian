@@ -2,7 +2,7 @@
 
 <img src="code.png" min-width="5px" max-width="30px" align="right" alt="imagem simbolo codigo">
 
-<h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe, atualmente estudando BackEnd ( no momento: Docker e MySQL), com estudos de FrontEnd consolidados e recriando projetos antigos, postando no linkedin e github, a fim de demonstrar meus conhecimentos</h3>
+<h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe, atualmente na fase 3/4, estudando BackEnd</h3>
 
 ## < Tecnologias />
   
