@@ -1,12 +1,7 @@
-<img src="code.png" max-width="30px" align="rigth" alt="imagem simbolo codigo">
-
+<img src="code.png" min-width="5px" max-width="30px" align="right" alt="imagem simbolo codigo">
 <h1> <strong> < Hello World ☕ /> <br/> < I'm Kelvyn Khrystian /> </strong> </h1>
 
-
-
-<h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe, atualmente na fase 3/4 - BackEnd </h3>
-<h3>• Atualmente estudando: MySQL</h3>
-<h3>• FrontEnd: React JS </h3>
+<h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe, com estudos de FrontEnd consolidados e agora estudando BackEnd!</h3>
 
 ## < Tecnologias />
   
