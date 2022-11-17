@@ -5,7 +5,7 @@
 
 
 <h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe, atualmente na fase 3/4 - BackEnd </h3>
-<h3>• Atualmente estudando: Docker e MySQL</h3>
+<h3>• Atualmente estudando: MySQL</h3>
 <h3>• FrontEnd: React JS </h3>
 
 ## < Tecnologias />
