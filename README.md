@@ -1,6 +1,6 @@
 <img src="code2.png" min-width="5px" max-width="30px" align="right" alt="imagem simbolo codigo">
-
-<h1 padding-top="10px"> <strong> < Hello World ☕ /> <br/> < I'm Kelvyn Khrystian /> </strong> </h1>
+&nbsp;
+<h1> <strong> < Hello World ☕ /> <br/> < I'm Kelvyn Khrystian /> </strong> </h1>
 
 <h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe</h3>
 <h3>• FrontEnd consolidado em React JS</h3>
