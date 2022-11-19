@@ -4,7 +4,7 @@
 
 <h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe</h3>
 <h3>• FrontEnd consolidado em React JS</h3>
-<h3>• Estudando atualmente: MySQL</h3>
+<h3>• Estudando atualmente: SQL</h3>
 <h3>• Fase 3/4 - BackEnd</h3>
 
 ####
