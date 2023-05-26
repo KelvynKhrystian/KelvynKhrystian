@@ -3,9 +3,9 @@
 <h1> <strong> < Hello World ☕ /> <br/> < I'm Kelvyn Khrystian /> </strong> </h1>
 
 <h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe</h3>
-<h3>• FrontEnd consolidado em React JS</h3>
-<h3>• Estudando atualmente: Typescript</h3>
-<h3>• Fase 3/4 - BackEnd</h3>
+<h3>• FrontEnd: React.js Backend: Node.js</h3>
+<h3>• Estudando atualmente: Python</h3>
+<h3>• Fase 4/4 - CS</h3>
 
 ####
 
