@@ -2,7 +2,7 @@
 
 <h1> <strong> < Hello World ☕ /> <br/> < I'm Kelvyn Khrystian /> </strong> </h1>
 
-<h3>• Estudante de Desenvolvimento Web Full Stack pela Trybe</h3>
+<h3>• Dev Web Full Stack </h3>
 
 ####
 
